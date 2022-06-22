@@ -3,7 +3,7 @@
 <h1>
   Hi there
   <div>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="200" height="200">
     </div>
 </h1>
 
@@ -24,6 +24,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=aliaagheisX&style=flat-square&color=blue" alt=""/>
 
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
